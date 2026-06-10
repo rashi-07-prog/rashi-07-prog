@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://www.linkedin.com/in/rashi-chauhan-043720414?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/20Ana)
+[![GitHub](https://github.com/rashi-07-prog)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/ankita714)
 
 ---
