@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hi hi there 👋
+* # Hii 👋 I'm rashi
+ * ## 👩‍💻 About Me
+ * 🎓 Computer Science & Engineering
+ * 🌱 Currently exploring **Cybersecurity**, **Machine Learning**, and **Quantum Computing**
+ * 💻 Skilled in **C++, HTML, CSS**
+ * 📊 Passionate about Research & Development
 <!--
 **rashi-07-prog/rashi-07-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
