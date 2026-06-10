@@ -9,8 +9,10 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/rashi-chauhan-043720414?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![GitHub](https://github.com/rashi-07-prog)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/rashi-07-prog)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/Rashi-Chauhan)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/ankita714)
 
 ---
